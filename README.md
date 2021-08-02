@@ -25,4 +25,4 @@ We will be using Jupyter Python notebooks as a numerical computing and graphical
 
 ## Activity 2 - Manipulating images and OpenCV
 
-- [Manipulatin images in Python](http://nbviewer.ipython.org/github/agmarrugo/computer-vision-utb/blob/main/notebooks/01_Image_Processing_in_Python_Final.ipynb)
+- [Manipulating images in Python](http://nbviewer.ipython.org/github/agmarrugo/computer-vision-utb/blob/main/notebooks/01_Image_Processing_in_Python_Final.ipynb)
