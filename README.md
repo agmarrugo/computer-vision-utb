@@ -8,7 +8,7 @@ Andrés Marrugo, PhD
 
 This repository is a collection of Jupyter notebooks in the form of lecture notes and course activities for the course IMTR A08A Visión Artificial taught at the [Universidad Tecnológica de Bolívar](http://www.utb.edu.co/). The lectures notes or activities are written using the [Jupyter IPython Notebook](https://jupyter.org/), part of the [Python ecosystem for scientific computing]( http://scipy.org/ ). You can view these lectures in different ways: simply read on line by clicking on the links below; or download a single notebook or all the stuff or yet fork this entire repository using the GitHub resources and run the notebooks in your computer or in the cloud by clicking on the Open in Colab button. I hope this material is useful to you and I am open to suggestions or comments.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/agmarrugo/computer-vision-utb/blob/master/README.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/agmarrugo/computer-vision-utb/blob/main/README.ipynb)
 
 
 Introduction
@@ -21,8 +21,8 @@ We will be using Jupyter Python notebooks as a numerical computing and graphical
 
 ## Activity 1 - Linear algebra primer
 
-- [Linear algebra with Numpy](http://nbviewer.ipython.org/github/agmarrugo/computer-vision-utb/blob/master/notebooks/00-Linear-algebra-with-Numpy.ipynb)
+- [Linear algebra with Numpy](http://nbviewer.ipython.org/github/agmarrugo/computer-vision-utb/blob/main/notebooks/00-Linear-algebra-with-Numpy.ipynb)
 
 ## Activity 2 - Manipulating images and OpenCV
 
-- [Manipulatin images in Python](http://nbviewer.ipython.org/github/agmarrugo/computer-vision-utb/blob/master/notebooks/01_Image_Processing_in_Python_Final.ipynb)
+- [Manipulatin images in Python](http://nbviewer.ipython.org/github/agmarrugo/computer-vision-utb/blob/main/notebooks/01_Image_Processing_in_Python_Final.ipynb)
