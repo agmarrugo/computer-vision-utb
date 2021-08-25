@@ -30,3 +30,7 @@ We will be using Jupyter Python notebooks as a numerical computing and graphical
 ## Assignment 1 - Projective geometry
 
 - [Projective geometry](http://nbviewer.ipython.org/github/agmarrugo/computer-vision-utb/blob/main/notebooks/assignment_01_computer_vision.ipynb)
+
+## Lab 1 - Linear filters
+
+- [Linear filters](http://nbviewer.ipython.org/github/agmarrugo/computer-vision-utb/blob/main/notebooks/lab_linear_filters.ipynb)
