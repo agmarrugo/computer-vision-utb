@@ -34,3 +34,12 @@ We will be using Jupyter Python notebooks as a numerical computing and graphical
 ## Lab 1 - Linear filters
 
 - [Linear filters](http://nbviewer.ipython.org/github/agmarrugo/computer-vision-utb/blob/main/notebooks/lab_linear_filters.ipynb)
+
+## Color segmentation - Ball tracking code
+
+-[ball_tracking.py](https://github.com/agmarrugo/computer-vision-utb/blob/main/code/ball_tracking.py)
+
+## In class activity - Thresholding 
+
+- [Thresholding](http://nbviewer.ipython.org/github/agmarrugo/computer-vision-utb/blob/main/notebooks/04_thresholding_images_computer_vision.ipynb)
+
