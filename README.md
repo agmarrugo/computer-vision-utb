@@ -37,7 +37,7 @@ We will be using Jupyter Python notebooks as a numerical computing and graphical
 
 ## Color segmentation - Ball tracking code
 
--[ball_tracking.py](https://github.com/agmarrugo/computer-vision-utb/blob/main/code/ball_tracking.py)
+- [ball_tracking.py](https://github.com/agmarrugo/computer-vision-utb/blob/main/code/ball_tracking.py)
 
 ## In class activity - Thresholding 
 
