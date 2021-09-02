@@ -39,7 +39,11 @@ We will be using Jupyter Python notebooks as a numerical computing and graphical
 
 - [ball_tracking.py](https://github.com/agmarrugo/computer-vision-utb/blob/main/code/ball_tracking.py)
 
-## In class activity - Thresholding 
+## Activity 3 - Thresholding 
 
 - [Thresholding](http://nbviewer.ipython.org/github/agmarrugo/computer-vision-utb/blob/main/notebooks/04_thresholding_images_computer_vision.ipynb)
 
+## Activity 4 - Connected components
+
+- [Connected components](http://nbviewer.ipython.org/github/agmarrugo/computer-vision-utb/blob/main/notebooks/connected_components_images_computer_vision.ipynb)
+- [Mathematical morphology operations](https://docs.opencv.org/4.5.1/d9/d61/tutorial_py_morphological_ops.html)
