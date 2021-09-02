@@ -45,5 +45,5 @@ We will be using Jupyter Python notebooks as a numerical computing and graphical
 
 ## Activity 4 - Connected components
 
-- [Connected components](http://nbviewer.ipython.org/github/agmarrugo/computer-vision-utb/blob/main/notebooks/connected_components_images_computer_vision.ipynb) 
+- [Connected components](http://nbviewer.ipython.org/github/agmarrugo/computer-vision-utb/blob/main/notebooks/connected_components_images_computer_vision.ipynb)  
 - [Mathematical morphology operations](https://docs.opencv.org/4.5.1/d9/d61/tutorial_py_morphological_ops.html)
