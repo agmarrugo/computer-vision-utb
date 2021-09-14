@@ -47,3 +47,11 @@ We will be using Jupyter Python notebooks as a numerical computing and graphical
 
 - [Connected components](http://nbviewer.ipython.org/github/agmarrugo/computer-vision-utb/blob/main/notebooks/connected_components_images_computer_vision.ipynb)  
 - [Mathematical morphology operations](https://docs.opencv.org/4.5.1/d9/d61/tutorial_py_morphological_ops.html)
+
+## Assignment 2 - Detecting contrasting concentric circles
+
+![Detected CCC.](https://github.com/agmarrugo/computer-vision-utb/raw/main/figures/detected_cc.gif)
+
+- [Detecting contrasting concentric circles](http://nbviewer.ipython.org/github/agmarrugo/computer-vision-utb/blob/main/notebooks/oneccc_detection_assignment.ipynb)
+
+
