@@ -50,7 +50,9 @@ We will be using Jupyter Python notebooks as a numerical computing and graphical
 
 ## Assignment 2 - Detecting contrasting concentric circles
 
-![Detected CCC.](https://github.com/agmarrugo/computer-vision-utb/raw/main/figures/detected_cc.gif)
+<!-- ![Detected CCC.](https://github.com/agmarrugo/computer-vision-utb/raw/main/figures/detected_cc.gif) -->
+
+<img src="https://github.com/agmarrugo/computer-vision-utb/raw/main/figures/detected_cc.gif" alt="Detected CCC" width="200"/>
 
 - [Detecting contrasting concentric circles](http://nbviewer.ipython.org/github/agmarrugo/computer-vision-utb/blob/main/notebooks/oneccc_detection_assignment.ipynb)
 
