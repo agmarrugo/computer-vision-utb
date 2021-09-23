@@ -58,7 +58,7 @@ We will be using Jupyter Python notebooks as a numerical computing and graphical
 
 ## Lab 2 - Frequency Analysis
 
-- [Template matching](http://nbviewer.ipython.org/github/agmarrugo/computer-vision-utb/blob/main/notebooks/fft2_analysis.ipynb)
+- [Frequency Analysis](http://nbviewer.ipython.org/github/agmarrugo/computer-vision-utb/blob/main/notebooks/fft2_analysis.ipynb)
 
 ## Activity 5 - Template matching
 
