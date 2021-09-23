@@ -56,4 +56,6 @@ We will be using Jupyter Python notebooks as a numerical computing and graphical
 
 - [Detecting contrasting concentric circles](http://nbviewer.ipython.org/github/agmarrugo/computer-vision-utb/blob/main/notebooks/oneccc_detection_assignment.ipynb)
 
+## Activity X - Template matching
 
+- [Template matching](http://nbviewer.ipython.org/github/agmarrugo/computer-vision-utb/blob/main/notebooks/template_matching.ipynb)
