@@ -69,3 +69,4 @@ We will be using Jupyter Python notebooks as a numerical computing and graphical
 <img src="https://github.com/agmarrugo/computer-vision-utb/raw/main/figures/camera-calibration.gif" alt="Camera calibration" width="200"/>
 
 - [Camera calibration](http://nbviewer.ipython.org/github/agmarrugo/computer-vision-utb/blob/main/notebooks/camera_calibration.ipynb)
+- [capture_calib_images.py](https://github.com/agmarrugo/computer-vision-utb/blob/main/code/capture_calib_images.py)
