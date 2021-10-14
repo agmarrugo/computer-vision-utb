@@ -73,4 +73,4 @@ We will be using Jupyter Python notebooks as a numerical computing and graphical
 
 ## Activity 7 - Corner detection
 
-- [Template matching](http://nbviewer.ipython.org/github/agmarrugo/computer-vision-utb/blob/main/notebooks/corner_detection.ipynb)
+- [Corner detection](http://nbviewer.ipython.org/github/agmarrugo/computer-vision-utb/blob/main/notebooks/corner_detection.ipynb)
