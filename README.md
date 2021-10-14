@@ -70,3 +70,7 @@ We will be using Jupyter Python notebooks as a numerical computing and graphical
 
 - [Camera calibration](http://nbviewer.ipython.org/github/agmarrugo/computer-vision-utb/blob/main/notebooks/camera_calibration.ipynb)
 - [capture_calib_images.py](https://github.com/agmarrugo/computer-vision-utb/blob/main/code/capture_calib_images.py)
+
+## Activity 7 - Corner detection
+
+- [Template matching](http://nbviewer.ipython.org/github/agmarrugo/computer-vision-utb/blob/main/notebooks/corner_detection.ipynb)
