@@ -74,3 +74,7 @@ We will be using Jupyter Python notebooks as a numerical computing and graphical
 ## Activity 7 - Corner detection
 
 - [Corner detection](http://nbviewer.ipython.org/github/agmarrugo/computer-vision-utb/blob/main/notebooks/corner_detection.ipynb)
+
+## Activity 8 - SIFT
+
+- [Scale-Invariant Feature Transform](http://nbviewer.ipython.org/github/agmarrugo/computer-vision-utb/blob/main/notebooks/sift.ipynb)
