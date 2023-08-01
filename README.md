@@ -21,7 +21,7 @@ We will be using Jupyter Python notebooks as a numerical computing and graphical
 
 ## Activity 1 - Linear algebra primer
 
-- [Linear algebra with Numpy](http://nbviewer.ipython.org/github/agmarrugo/computer-vision-utb/blob/main/notebooks/00_Linear_algebra_with_Numpy.ipynb)
+- [Linear algebra with Numpy](https://github.com/agmarrugo/computer-vision-utb/blob/main/notebooks/00_Linear_algebra_with_Numpy.ipynb)
 
 ## Activity 2 - Manipulating images and OpenCV
 
