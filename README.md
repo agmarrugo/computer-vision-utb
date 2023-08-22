@@ -27,11 +27,11 @@ We will be using Jupyter Python notebooks as a numerical computing and graphical
 
 - [Manipulating images in Python](https://github.com/agmarrugo/computer-vision-utb/blob/main/notebooks/01_Image_Processing_in_Python_Final.ipynb)
 
-## Assignment 1 - Projective geometry
+## Activity 3 - Projective geometry
 
 - [Projective geometry](http://nbviewer.ipython.org/github/agmarrugo/computer-vision-utb/blob/main/notebooks/assignment_01_computer_vision.ipynb)
 
-## Lab 1 - Linear filters
+## Activity 4 - Linear filters
 
 - [Linear filters](http://nbviewer.ipython.org/github/agmarrugo/computer-vision-utb/blob/main/notebooks/lab_linear_filters.ipynb)
 
