@@ -56,25 +56,25 @@ We will be using Jupyter Python notebooks as a numerical computing and graphical
 
 - [Detecting contrasting concentric circles](http://nbviewer.ipython.org/github/agmarrugo/computer-vision-utb/blob/main/notebooks/oneccc_detection_assignment.ipynb)
 
-## Lab 2 - Frequency Analysis
+## Activity 8 - Frequency Analysis
 
 - [Frequency Analysis](http://nbviewer.ipython.org/github/agmarrugo/computer-vision-utb/blob/main/notebooks/fft2_analysis.ipynb)
 
-## Activity 5 - Template matching
+## Activity 9 - Template matching
 
 - [Template matching](http://nbviewer.ipython.org/github/agmarrugo/computer-vision-utb/blob/main/notebooks/template_matching.ipynb)
 
-## Activity 6 - Camera calibration
+## Activity 10 - Camera calibration
 
 <img src="https://github.com/agmarrugo/computer-vision-utb/raw/main/figures/camera-calibration.gif" alt="Camera calibration" width="200"/>
 
 - [Camera calibration](http://nbviewer.ipython.org/github/agmarrugo/computer-vision-utb/blob/main/notebooks/camera_calibration.ipynb)
 - [capture_calib_images.py](https://github.com/agmarrugo/computer-vision-utb/blob/main/code/capture_calib_images.py)
 
-## Activity 7 - Corner detection
+## Activity 11 - Corner detection
 
 - [Corner detection](http://nbviewer.ipython.org/github/agmarrugo/computer-vision-utb/blob/main/notebooks/corner_detection.ipynb)
 
-## Activity 8 - SIFT
+## Activity 12 - SIFT
 
 - [Scale-Invariant Feature Transform](http://nbviewer.ipython.org/github/agmarrugo/computer-vision-utb/blob/main/notebooks/sift.ipynb)
